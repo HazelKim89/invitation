@@ -74,9 +74,9 @@ h1{
   text-shadow: 3px 3px 3px darkgray;
 }
 .heading{
-  color: #b47548;
-  font-weight: 700;
-  text-shadow: -1px 0 #ffffff91, 0 1px #f2f1f6b0, 1px 0 #f2f1f6bd, 0 -1px #f2f1f6d9;
+  color: #ed9682;
+  background: #ffffff73;
+  border-radius: 20px;
 }
 .charm{
   font-family: 'Charm', cursive;
